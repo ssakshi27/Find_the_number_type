@@ -1,3 +1,4 @@
+// write a program to find factorial of digit by recursion...
 #include<stdio.h>
 long int multiplyNumbers(int n);
 int main() {
